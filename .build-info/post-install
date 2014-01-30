@@ -1,0 +1,3 @@
+#!/bin/bash
+
+rm ${3}/usr/${C_LIBDIRS}/lib{bfd,opcodes}.{la,a} ${3}/usr/include/bfd.h ${3}/usr/share/info/bfd.info* ${3}/usr/share/info/standards.info*
